@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I am Szymon</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=szymooneq&label=Profile%20views&color=ff2f78" alt="szymooneq profile page views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=szymooneq&label=Profile%20views&style=flat-square" alt="szymooneq profile page views" /> </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/szymon-dudka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” /></a>
-<a href="mailto:islempenywis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/szymon-dudka/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” /></a>
+<a href="mailto:szymooneq@zohomail.eu" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” /></a></p>
 
 I am Frontend Web Developer and Designer. I am an ambitious person open to new challenges. I am passionate about programming and I associate my future with it, so I would like to develop further in this direction, learning new things and solutions and gaining new experiences.
 
@@ -44,4 +44,7 @@ I am Frontend Web Developer and Designer. I am an ambitious person open to new c
 | Real Estate App | App with the ability to create accounts and property management. | [GitHub](https://github.com/szymooneq/Real-Estate-App) | [Vercel](https://real-estate-sd.vercel.app/) |
 | Memory Master | Memory Master is a game where you have to match all images to win. | [GitHub](https://github.com/szymooneq/Memory-Master) | [Vercel](https://memory-master-sd.vercel.app/) |
 
-<p align="center"><img src="https://github.com/szymooneq/szymooneq/blob/output/github-contribution-grid-snake.gif" alt="Snake eating repository" /></p>
+
+<p align="left">
+  <img alig src="https://github.com/szymooneq/szymooneq/blob/output/github-contribution-grid-snake.svg" />
+</p>
