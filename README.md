@@ -49,7 +49,7 @@ I am Frontend Web Developer and Designer. I am an ambitious person open to new c
 ### Projects
 | Name | Description | Source | Deploy |
 |:----:|:------------|:----:|:-----------:|
-| Personal Portfolio | My own portfolio page. Responsive website without the use of any CSS framework. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Vercel](https://personal-portfolio-sd.vercel.app/) |
+| Personal Portfolio | My own portfolio page. Responsive website without the use of any CSS framework. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
 | Tastebite Recipes App | Application with the ability to add and manage recipes. | [GitHub](https://github.com/szymooneq/Tastebite-Recipes-App) | [Vercel](https://tastebite-app-sd.vercel.app/) |
 | Memory Master | Memory Master is a game where you have to match all images to win. | [GitHub](https://github.com/szymooneq/Memory-Master) | [Vercel](https://memory-master-sd.vercel.app/) |
 
