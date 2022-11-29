@@ -1,5 +1,7 @@
-![Header](header_emoji.png)
-###
+<p align="center">
+  <img src="./header_emoji.png" alt="Header emoji" />
+</p>
+
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I am Szymon</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=szymooneq&label=Profile%20views&style=flat-square" alt="szymooneq profile page views" /> </p>
