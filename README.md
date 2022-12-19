@@ -18,11 +18,11 @@
 	</a>
 </p>
 
-I am an IT engineer. I am interested in creating websites / web applications and I constantly develop my development skills by searching the Internet, completing paid courses, watching YouTube videos or reading technological documentation. Programming is my passion, I would like to become a Fullstack developer in the future. I want to gain knowledge and new experience, get to know and explore various solutions. I am ambitious, persistent, I like challenges. You can find the result of my work on my portfolio or GitHub page. I tried to make every project with attention to detail.
+I love creating websites / web applications. I am ambitious and persistent in what I do, I like challenges. I learn every day to deep my knowledge, acquire new experiences, discover new solutions and be better and better in this field. I am self-taught, I quickly adapt to new technologies, I pay attention to the smallest details.
 
 - 🖥️ See my portfolio at [**szymondudka.xyz**](https://szymondudka.xyz/)
 - ✉️ Mail: [**szymooneq@zohomail.eu**](mailto:sdudka8@gmail.com)
-- 🧠 I’m currently learning **Next.js** and **TypeScript**.
+- 🧠 I’m currently learning **Gatsby** and **TypeScript**.
 - ⚽ I like traveling, taking photos and football.
 
 ### Languages and Tools
