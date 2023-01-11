@@ -22,7 +22,7 @@ I love creating websites / web applications. I am ambitious and persistent in wh
 
 - 🖥️ See my portfolio at [**szymondudka.xyz**](https://szymondudka.xyz/)
 - ✉️ Mail: [**szymooneq@zohomail.eu**](mailto:sdudka8@gmail.com)
-- 🧠 I’m currently learning **Gatsby** and **TypeScript**.
+- 🧠 I’m currently **TypeScript**.
 - ⚽ I like traveling, taking photos and football.
 
 ### Languages and Tools
