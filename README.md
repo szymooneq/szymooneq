@@ -18,12 +18,12 @@
 	</a>
 </p>
 
-I love creating websites / web applications. I am ambitious and persistent in what I do, I like challenges. I learn every day to deep my knowledge, acquire new experiences, discover new solutions and be better and better in this field. I am self-taught, I quickly adapt to new technologies, I pay attention to the smallest details.
+I am a front-end developer with almost 1 year of non-commercial experience. I love creating websites / web applications. I am ambitious, persistent and self-taught. I like challenges, I quickly adapt to new technologies and I pay attention to the small details. I learn every day to deep my knowledge.
 
 - 🖥️ See my portfolio at [**szymondudka.xyz**](https://szymondudka.xyz/)
 - ✉️ Mail: [**szymooneq@zohomail.eu**](mailto:sdudka8@gmail.com)
-- 🧠 I’m currently **Jest**.
-- ⚽ I like traveling, taking photos and football.
+- 🧠 I'm currently learning app testing with **Jest** library.
+- ⚽ I like traveling, web design, gaming, technologies, taking photos and football.
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
