@@ -59,7 +59,7 @@ I am a front-end developer with almost one year of non-commercial experience. I 
 ### Projects
 | Name | Description | Source | Deploy |
 |:----:|:------------|:----:|:-----------:|
-| Personal Portfolio | My portfolio page. A responsive website without the use of any CSS framework with Sanity CMS and server-side rendering by Next.js. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
+| Personal Portfolio | My portfolio page. Responsive website with Sanity CMS and server-side rendering by Next.js framework. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
 | Tastebite Recipes App | React app with the ability to create accounts and manage own recipes (CRUD). Auth and database by Google Firebase. Data fetching, form validation, and sanitization. | [GitHub](https://github.com/szymooneq/Tastebite-Recipes-App) | [Vercel](https://tastebite-app-sd.vercel.app/) |
 | Apple E-Commerce Store  | Modern Apple store created with React, TypeScript, Stripe payments, and Strapi backend for data stored. Styling with SASS. | [GitHub](https://github.com/szymooneq/Apple-E-Commerce-Store) | [Vercel](https://apple-store-sd.vercel.app/) |
 | Memory Master | The game where you have to match all images to win. Created with TypeScript and DOM manipulation. | [GitHub](https://github.com/szymooneq/Memory-Master) | [Vercel](https://memory-master-sd.vercel.app/) |
