@@ -18,12 +18,12 @@
 	</a>
 </p>
 
-I am a front-end developer with almost 1 year of non-commercial experience. I love creating websites / web applications. I am ambitious, persistent and self-taught. I like challenges, I quickly adapt to new technologies and I pay attention to the small details. I learn every day to deep my knowledge.
+I am a front-end developer with almost one year of non-commercial experience. I love creating websites/web applications. I am ambitious, persistent, and self-taught. I like challenges, I quickly adapt to new technologies and I pay attention to the small details. I learn every day to deepen my knowledge.
 
 - 🖥️ See my portfolio at [**szymondudka.xyz**](https://szymondudka.xyz/)
 - ✉️ Mail: [**szymooneq@zohomail.eu**](mailto:sdudka8@gmail.com)
 - 🧠 I'm currently learning app testing with **Jest** library.
-- ⚽ I like traveling, web design, gaming, technologies, taking photos and football.
+- ⚽ Hobby: Travel / Gaming / Technology / Photography / Football.
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,11 +59,11 @@ I am a front-end developer with almost 1 year of non-commercial experience. I lo
 ### Projects
 | Name | Description | Source | Deploy |
 |:----:|:------------|:----:|:-----------:|
-| Personal Portfolio | My own portfolio page. Responsive website without the use of any CSS framework. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
-| Tastebite Recipes App | Application with the ability to add and manage recipes. | [GitHub](https://github.com/szymooneq/Tastebite-Recipes-App) | [Vercel](https://tastebite-app-sd.vercel.app/) |
-| Apple E-Commerce Store  | Modern Apple store created with React, TypeScript, Stripe payments and Strapi backend. | [GitHub](https://github.com/szymooneq/Apple-E-Commerce-Store) | [Vercel](https://apple-store-sd.vercel.app/) |
-| Memory Master | Memory Master is a simple game where you have to match all images to win. | [GitHub](https://github.com/szymooneq/Memory-Master) | [Vercel](https://memory-master-sd.vercel.app/) |
-| Hangman | Hangman is a simple game where you have to guess all the letters in a word. | [GitHub](https://github.com/szymooneq/Hangman) | [Vercel](https://hangman-sd.vercel.app/) |
+| Personal Portfolio | My portfolio page. A responsive website without the use of any CSS framework with Sanity CMS and server-side rendering by Next.js. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
+| Tastebite Recipes App | React app with the ability to create accounts and manage own recipes (CRUD). Auth and database by Google Firebase. Data fetching, form validation, and sanitization. | [GitHub](https://github.com/szymooneq/Tastebite-Recipes-App) | [Vercel](https://tastebite-app-sd.vercel.app/) |
+| Apple E-Commerce Store  | Modern Apple store created with React, TypeScript, Stripe payments, and Strapi backend for data stored. Styling with SASS. | [GitHub](https://github.com/szymooneq/Apple-E-Commerce-Store) | [Vercel](https://apple-store-sd.vercel.app/) |
+| Memory Master | The game where you have to match all images to win. Created with TypeScript and DOM manipulation. | [GitHub](https://github.com/szymooneq/Memory-Master) | [Vercel](https://memory-master-sd.vercel.app/) |
+| Hangman | The game where you have to guess all the letters in a word. Created with React and TypeScript. | [GitHub](https://github.com/szymooneq/Hangman) | [Vercel](https://hangman-sd.vercel.app/) |
 
 
 <p align="left">
