@@ -18,11 +18,11 @@
 	</a>
 </p>
 
-I am a front-end developer with almost one year of non-commercial experience. I love creating websites/web applications. I am ambitious, persistent, and self-taught. I like challenges, I quickly adapt to new technologies and I pay attention to the small details. I learn every day to deepen my knowledge.
+I implement responsive and user-friendly interfaces and API-based applications. I’m constantly gaining new knowledge by creating and improving projects which help me practice my skills. My goal is work in a team that specializes in commercial projects. This would give me a chance to further improve my skills and gain valuable experience.
 
 - 🖥️ See my portfolio at [**szymondudka.xyz**](https://szymondudka.xyz/)
 - ✉️ Mail: [**szymooneq@zohomail.eu**](mailto:sdudka8@gmail.com)
-- 🧠 I'm currently learning app testing with **Jest** library.
+- 🧠 I'm currently learning **Jest** and **GraphQL**.
 - ⚽ Hobby: Travel / Gaming / Technology / Photography / Football.
 
 ### Languages and Tools
