@@ -25,7 +25,7 @@ I implement responsive and user-friendly interfaces and API-based applications. 
 - 🧠 I'm currently learning **Jest** and **GraphQL**.
 - ⚽ Hobby: Travel / Gaming / Technology / Photography / Football.
 
-### Languages and Tools
+## Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -56,7 +56,7 @@ I implement responsive and user-friendly interfaces and API-based applications. 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-### Projects
+## Projects
 | Name | Description | Source | Deploy |
 |:----:|:------------|:----:|:-----------:|
 | Personal Portfolio | My portfolio website. A responsive website built with Next.js and the Sanity v3 CMS embedded Studio. | [GitHub](https://github.com/szymooneq/Personal-Portfolio) | [Domain](https://szymondudka.xyz/) [Vercel](https://personal-portfolio-szymooneq.vercel.app/) |
